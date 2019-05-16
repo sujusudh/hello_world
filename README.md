@@ -1,2 +1,4 @@
 # hello_world
-first repository
+another repository
+hello all,
+This is suchi and I am interested in machine learning
