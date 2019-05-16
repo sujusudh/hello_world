@@ -1,5 +1,5 @@
 # hello_world
-another repository
+first repository
 hello all,
 
 
